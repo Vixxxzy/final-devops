@@ -24,7 +24,7 @@ session_start();
 
 </head>
 
-<body class="h-screen bg-gradient-to-b from-white via-blue-700 to-cyan-400">
+<body class="bg-gradient-to-b from-violet-300 via-purple-200 to-gray-100">
 
 
 

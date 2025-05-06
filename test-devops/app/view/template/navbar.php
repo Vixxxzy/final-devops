@@ -1,5 +1,5 @@
 <!-- Navbar -->
-<nav class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white shadow-lg">
+<nav class="bg-gradient-to-r from-purple-400 to-violet-500 text-white shadow-lg">
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
@@ -10,7 +10,7 @@
         <!-- Desktop Menu (hidden on mobile) -->
         <div class="hidden md:flex space-x-8">
             <a href="<?= APP_PATH; ?>/home/index" class="hover:bg-indigo-700 px-6 py-2 rounded-lg text-lg font-medium transition duration-300 hover:text-white">Dashboard</a>
-            <a href="<?= APP_PATH; ?>/home/appointment" class="hover:bg-indigo-700 px-6 py-2 rounded-lg text-lg font-medium transition duration-300 hover:text-white">Appointment</a>
+            <a href="<?= APP_PATH; ?>/home/appointment" class="hover:bg-indigo-700 px-6 py-2 rounded-lg text-lg font-medium transition duration-300 hover:text-white">Schedule</a>
             <a href="<?= APP_PATH; ?>/home/doctor" class="hover:bg-indigo-700 px-6 py-2 rounded-lg text-lg font-medium transition duration-300 hover:text-white">Doctors</a>
             <a href="<?= APP_PATH; ?>/home/profile" class="hover:bg-indigo-700 px-6 py-2 rounded-lg text-lg font-medium transition duration-300 hover:text-white">Profile</a>
         </div>

@@ -9,5 +9,4 @@
     define("USER_DB", "root");
     define("PASS_DB", "12345");
 	
-	
 ?>
